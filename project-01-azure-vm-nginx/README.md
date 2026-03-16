@@ -18,10 +18,17 @@ NGINX Web Server
 - Ubuntu Server
 - NGINX
 
+## Architecture
+
+![Architecture](Website.png)
+
+## Output
+
+![NGINX Output](nginx.png)
+
 ## Commands Used
 
 ssh azureuser@20.166.233.240
-
 sudo apt update
 sudo apt install nginx -y
 sudo systemctl start nginx
