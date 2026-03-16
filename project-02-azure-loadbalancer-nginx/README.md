@@ -24,3 +24,26 @@ Internet → Public IP → Azure Load Balancer → Backend Pool → Ubuntu VMs �
 ## Commands Used
 
 SSH into VM
+sudo apt update
+sudo apt install nginx -y
+sudo systemctl start nginx
+sudo systemctl enable nginx
+sudo nano /var/www/html/index.html
+VM1
+SERVER 1
+VM2
+SERVER 2
+
+## Result
+Traffic is distributed between two backend servers using Azure Load Balancer.
+Example:
+SERVER 1
+SERVER 2
+SERVER 1
+SERVER 2
+## Learning Outcome
+
+- Azure Load Balancer configuration
+- Backend Pool setup
+- Health Probe monitoring
+- Load balancing traffic distribution
