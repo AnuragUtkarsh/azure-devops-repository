@@ -1,0 +1,7 @@
+sudo apt update
+sudo apt install nginx -y
+sudo systemctl enable --now nginx.service
+sudo systemctl status nginx
+sudo vim /var/www/html/index.html
+sudo systemctl restart nginx.server
+sudo systemctl restart nginx.service
