@@ -18,7 +18,7 @@ NGINX Web Server
 - Ubuntu Server
 - NGINX
 
-## Architecture
+## Architecture-Output
 
 ![Architecture](Website.png)
 
