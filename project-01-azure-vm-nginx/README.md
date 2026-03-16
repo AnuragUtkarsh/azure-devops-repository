@@ -28,5 +28,6 @@ sudo systemctl start nginx
 sudo systemctl enable nginx
 
 ## Result
-
 Successfully deployed a public web server on Microsoft Azure Cloud.
+
+
