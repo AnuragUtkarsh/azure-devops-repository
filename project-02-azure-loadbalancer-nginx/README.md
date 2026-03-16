@@ -47,3 +47,12 @@ SERVER 2
 - Backend Pool setup
 - Health Probe monitoring
 - Load balancing traffic distribution
+
+## Architecture Images
+
+![Server1 Web](images/server1web.png)
+![Server2 Web](images/server2web.png)
+![Server1 Status](images/server1status.png)
+![Server2 Status](images/server2status.png)
+![LB Response1](images/lbresponse1.png)
+![LB Response2](images/lbresponse2.png)
