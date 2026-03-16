@@ -50,6 +50,7 @@ SERVER 2
 
 ## Architecture Images
 
+![Load Balancer Overview](images/lboverview.png)
 ![Server1 Web](images/server1web.png)
 ![Server2 Web](images/server2web.png)
 ![Server1 Status](images/server1status.png)
