@@ -49,8 +49,18 @@ ping 10.1.0.4
 ---
 
 ## 📸 Screenshots
-
-
+![Ping-fail1](images/Ping-fail1.png)
+![curl-result](images/curl-result.png)
+![nsg-apply](images/nsg-apply.png)
+![nsgrules.png](images/nsgrules.png)
+![ping-fail2](images/ping-fail2.png)
+![ping-success1](images/ping-success1.png)
+![ping-success2](images/ping-success2.png)
+![sshvm-1](images/sshvm-1.png)
+![sshvm2](images/sshvm2.png)
+![vnet01](images/vnet01.png)
+![vnet02](images/vnet02.png)
+![vnetoverview](images/vnetoverview.png)
 ---
 
 ## 💡 Key Learnings
