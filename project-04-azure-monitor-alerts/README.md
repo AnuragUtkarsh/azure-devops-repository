@@ -75,8 +75,13 @@ stress --cpu 2 --timeout 120
 ---
 
 ## 📸 Screenshots
-
-
+![Metrics](images/Metrics.png)
+![Aler-resolve](images/aler-resolve.jpg)
+![aler-triggered](images/aler-triggered.jpg)
+![alert-overview](images/alert-overview.png)
+![alert-rule](images/alert-rule.png)
+![vm-overview](images/vm-overview.png)
+![stress-status](images/stress-status.png)
 
 ---
 
