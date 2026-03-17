@@ -62,6 +62,38 @@ Internet → Azure Storage Account → Blob Container → Secure Access (RBAC / 
 
 ## 📸 Screenshots
 
+### 🔹 Storage Account Overview
+![Storage Overview](images/storage-account-overview.png)
+
+---
+
+### 🔹 Container Files
+![Files in Container](images/filesincontainer.png)
+
+---
+
+### 🔹 SAS Permission Configuration
+![SAS Permission](images/sas-permission.png)
+
+---
+
+### 🔹 SAS Token Generation
+![SAS Token](images/sas-token-generation.png)
+
+---
+
+### 🔹 Access Denied (Without SAS)
+![Failed SAS](images/failed-sas.png)
+
+---
+
+### 🔹 Custom Role Assigned
+![Custom Role](images/custom-role-assigned.png)
+
+---
+
+### 🔹 Overall Architecture / Overview
+![Overview](images/overview.png)
 
 ---
 
