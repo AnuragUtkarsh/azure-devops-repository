@@ -43,3 +43,9 @@ This implementation follows the **Least Privilege Principle**, ensuring that use
 ## Result
 
 The DevOps user was able to view resources inside the resource group but could not create or delete resources.
+
+![Custom_role_assignment](images/Custom_role_assignment.png)
+
+![User_access_test](images/User_access_test.png)
+
+![user_roles](images/user_roles.png)
