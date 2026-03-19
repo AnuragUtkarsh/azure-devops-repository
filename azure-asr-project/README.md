@@ -112,6 +112,17 @@ Replica VM (Southeast Asia)
 
 ## 📸 Screenshots
 
+![Replication Health](images/failover-health.png)
+
+![Test Failover](images/test-failover.png)
+
+![Failover Success](images/failover-success.png)
+
+![Target VM](images/real-vm.png)
+
+![Cleanup](images/testfailover-cleanup.png)
+
+![Cleanup Success](images/testfailover-cleansuccess.png)
 
 
 ## 🧠 Key Learnings
