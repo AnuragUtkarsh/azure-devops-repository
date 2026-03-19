@@ -1,0 +1,11 @@
+trigger:
+- main
+
+pool:
+  name: Default
+
+steps:
+- script: |
+    echo "Deploying to Nginx..."
+    sudo cp index.html /var/www/html/index.html
+  displayName: 'Deploy Website'
