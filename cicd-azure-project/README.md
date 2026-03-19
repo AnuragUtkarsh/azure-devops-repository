@@ -102,7 +102,23 @@ Website successfully deployed on Azure VM via CI/CD pipeline.
 
 ## 📸 Screenshots
 
+![Overview](images/overview.png)
 
+![CI Azure](images/ci-azure.png)
+
+![Repo](images/cicd-project.png)
+
+![YAML](images/yml-script.png)
+
+![Scripts](images/pipeline-scripts.png)
+
+![Execution](images/pipeline-exec.png)
+
+![Agent Pool](images/agent-pool.png)
+
+![Agent Run](images/agent-run.png)
+
+![Website](images/website.png)
 
 ---
 
