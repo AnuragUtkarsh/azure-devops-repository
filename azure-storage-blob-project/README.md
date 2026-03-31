@@ -88,10 +88,23 @@ Example blob URL:
 https://storageaccount.blob.core.windows.net/demo-container/hello.txt
 ```
 
----
+## Project Screenshots
 
-# Screenshots
+### Resource Group Creation
 
+![Resource Group Create](images/resource-group-create.png)
+
+### Storage Account Overview
+
+![Storage Account Overview](images/storage-account-overview.png)
+
+### Blob Storage Content
+
+![Content Storage](images/content_storage.png)
+
+### File Upload in Blob Storage
+
+![Files Upload in Blob](images/filesuploadinblob.png)
 
 
 ---
