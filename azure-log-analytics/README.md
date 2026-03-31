@@ -110,7 +110,9 @@ Heartbeat
 
 This query retrieves heartbeat signals sent by the monitored VM.
 
----
+
+**#SCREENSHOTS**
+[images/AMAExtension.png]
 
 # Example Output
 
