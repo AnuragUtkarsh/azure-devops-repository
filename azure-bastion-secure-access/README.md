@@ -47,12 +47,20 @@ Azure Bastion improves security by:
 * Preventing direct SSH/RDP exposure to the internet
 * Enabling secure access via the Azure portal
 
----
+## Project Screenshots
 
-## 📸 Screenshots
+### Bastion Overview
 
+![Bastion Overview](images/bastion-overview.png)
 
----
+### Bastion Connect
+
+![Bastion Connect](images/bastion-connect.png)
+
+### VM Overview
+
+![VM Overview](images/vm-overview.png)
+
 
 ## 🎯 Learning Outcome
 
