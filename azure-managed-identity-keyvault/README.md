@@ -167,10 +167,28 @@ Through this project, the following Azure concepts were implemented:
 * Secure Secret Retrieval from Virtual Machines
 
 ---
+## Project Screenshots
 
-## Screenshots
+### Key Vault Overview
 
-![Key-vaultoutput.png](images/Key-vaultoutput.png)
+![Key Vault Overview](images/key-vaultoverview.png)
+
+### Key Vault IAM Configuration
+
+![Key Vault IAM](images/key-vault-IAM.png)
+
+### Key Vault Output
+
+![Key Vault Output](images/Key-vaultoutput.png)
+
+### VM Managed Identity
+
+![VM Identity](images/vmidentity.png)
+
+### Token Generation
+
+![Token Generation](images/token-generation.png)
+
 
 ---
 
