@@ -110,9 +110,36 @@ Heartbeat
 
 This query retrieves heartbeat signals sent by the monitored VM.
 
+## Project Screenshots
 
-**#SCREENSHOTS**
-[images/AMAExtension.png]
+### Architecture Overview
+
+![Overview](images/overview.png)
+
+### VM Overview
+
+![VM Overview](images/vm-overview.png)
+
+### Azure Monitor Agent Extension
+
+![AMA Extension](images/AMAExtension.png)
+
+### Log Analytics Workspace
+
+![Log Analytics Workspace](images/log-analyticsworkspace.png)
+
+### Log Filtering using KQL
+
+![Log Filter by KQL](images/logfilterbykql.png)
+
+### Metrics Overview
+
+![Metrics](images/metrics.png)
+
+### Metric Configuration
+
+![Metric Configuration](images/metric-configuration.png)
+
 
 # Example Output
 
