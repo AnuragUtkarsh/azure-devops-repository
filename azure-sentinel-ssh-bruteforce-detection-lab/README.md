@@ -59,7 +59,43 @@ If multiple SSH login failures occur in a short time window, Sentinel generates 
 
 Microsoft Sentinel successfully detected multiple failed SSH login attempts and generated a security alert.
 
-## Screenshots
+## Project Screenshots
+
+### VM Overview
+
+![VM Overview](images/vm-overview.png)
+
+### Microsoft Defender Overview
+
+![Defender Overview](images/defender-overview.png)
+
+### VM Logs
+
+![VM Logs](images/vmlog.png)
+
+### KQL Syslog Query
+
+![KQL Syslog](images/kql-syslog.png)
+
+### Failed Login Attempt
+
+![Failed Attempt](images/failed-attempt.png)
+
+### Failed Login Attempt 2
+
+![Failed Attempt 2](images/failed-attempt2.png)
+
+### Failed Password Logs
+
+![Failed Password](images/failed-password.png)
+
+### Failed Logs Analysis
+
+![Failed Logs](images/faile-logs3.png)
+
+### Analytic Rule Creation
+
+![Analytic Rule](images/analytic-rule-creation.png)
 
 
 
