@@ -72,5 +72,5 @@ Microsoft Sentinel successfully detected multiple failed SSH login attempts and 
 * Creating analytics detection rules
 
 ## Author
-
-Cloud / Linux Engineer learning Azure Security and DevOps.
+Anurag Utkarsh
+Cloud / Linux Engineer.
