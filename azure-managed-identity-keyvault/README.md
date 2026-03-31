@@ -170,7 +170,7 @@ Through this project, the following Azure concepts were implemented:
 
 ## Screenshots
 
-(images/Key-vaultoutput.png)
+![Key-vaultoutput.png](images/Key-vaultoutput.png)
 
 ---
 
