@@ -25,7 +25,40 @@ The design ensures that **sensitive resources are not exposed to the public inte
 
 # Architecture Diagram
 
-![Architecture Diagram](architecture-diagram.png)
+## Project Screenshots
+
+### Secure Architecture Resources
+
+![Secure Architecture Resources](images/securearchitecture-resources.png)
+
+### Subnets Overview
+
+![Subnets Overview](images/subnets-overview.png)
+
+### VM Overview
+
+![VM Overview](images/vm-overview.png)
+
+### Application Gateway Overview
+
+![App Gateway Overview](images/app-gwoverview.png)
+
+### Storage Networking Overview
+
+![Storage Networking](images/storage-networking-overview.png)
+
+### Private Storage Endpoint Resolution
+
+![Private Storage Resolution](images/private-storageresolution.png)
+
+### Key Vault Token
+
+![Key Vault Token](images/key-vault-token.png)
+
+### Vault Secret
+
+![Vault Secret](images/vault-secret.png)
+
 
 ---
 
