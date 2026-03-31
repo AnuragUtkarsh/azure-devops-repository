@@ -42,6 +42,21 @@ AzureDiagnostics
 | project TimeGenerated, ResourceType, OperationName
 ```
 
+## Project Screenshots
+
+### KQL Azure Activity Query
+
+![KQL Azure Activity](images/kql-azureactivity.png)
+
+### KQL Filter Logs
+
+![KQL Filter Logs](images/kql-filterlogs.png)
+
+### KQL Heartbeat Query
+
+![KQL Heartbeat](images/kql-heartbeat.png)
+
+
 ## Learning Outcomes
 
 * Azure Monitor basics
