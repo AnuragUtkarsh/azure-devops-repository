@@ -36,7 +36,24 @@ Azure Resource Deployment
 | --------------- | --------- |
 | Storage Account | StorageV2 |
 
----
+
+## Project Screenshots
+
+### Bicep File
+
+![Bicep File](images/bicep-file.png)
+
+### Bicep Configuration
+
+![Bicep File Configuration](images/bicepfileconf.png)
+
+### Storage Created from Bicep
+
+![Bicep Created Storage](images/bicepcreatedstirage.png)
+
+### Resource Deployment from Bicep
+
+![Resource Deployment](images/resource-deploymentfrombicep.png)
 
 # Bicep Template
 
