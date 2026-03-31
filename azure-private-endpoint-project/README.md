@@ -85,14 +85,20 @@ Connectivity to the storage endpoint was tested using:
 ```bash
 curl -I https://anuragaccount01.blob.core.windows.net
 ```
+## Project Screenshots
 
----
+### Storage Networking Overview
 
-# Screenshots
+![Storage Networking Overview](images/storage-networkingoverview.png)
 
+### Disable Public Access
 
+![Disable Public Access](images/disable-publicaccess.png)
 
----
+### Private Endpoint Resolution
+
+![Endpoint Resolution](images/endpoint-resolution.png)
+
 
 # Learning Outcomes
 
