@@ -112,10 +112,6 @@ This query retrieves heartbeat signals sent by the monitored VM.
 
 ## Project Screenshots
 
-### Architecture Overview
-
-![Overview](images/overview.png)
-
 ### VM Overview
 
 ![VM Overview](images/vm-overview.png)
