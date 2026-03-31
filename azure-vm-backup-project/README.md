@@ -48,12 +48,40 @@ Backup was successfully configured for the Azure Virtual Machine.
 - VM protected in Recovery Services Vault
 
 ---
+## Project Screenshots
 
-## 📸 Screenshots
+### VM Overview
 
+![VM Overview](images/overview-vm.png)
 
+### Recovery Services Vault Overview
 
----
+![Vault Overview](images/vault-overview.png)
+
+### Vault Deployment
+
+![Vault Deployment](images/vault-deployement.png)
+
+### Backup Pre-checks
+
+![Backup Prechecks](images/backup-prechecks.png)
+
+### Backup Progress
+
+![Backup Progress](images/backup-progess2.png)
+
+### Backup Status
+
+![Backup Status](images/backupstatus.png)
+
+### File Uploaded to VM
+
+![File Uploaded](images/file-uploaded.png)
+
+### Deleted File Before Restore
+
+![Deleted for Backup](images/deleted-for-backup.png)
+
 
 ## 🎯 Learning Outcome
 
