@@ -131,8 +131,31 @@ This confirms that **Application Gateway is distributing traffic between both se
 
 ---
 
-## Screenshots
+## Project Screenshots
 
+### Application Gateway
+![Application Gateway](images/app-gateway.png)
+
+### Application Gateway Configuration
+![App GW Configuration](images/app-gwconfiguration.png)
+
+### Application Gateway Subnets
+![App GW Subnets](images/app-gwsubnets.png)
+
+### Backend Pool
+![Backend Pool](images/backend-pool.png)
+
+### Load Balancer Output 1
+![LB Output 1](images/lboutput1.png)
+
+### Load Balancer Output 2
+![LB Output 2](images/lboutput2.png)
+
+### VM01 Configuration
+![VM01 Configuration](images/vm01configuration.png)
+
+### VM02 Overview
+![VM02 Overview](images/vm2overview.png)
 
 
 ---
