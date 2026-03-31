@@ -68,11 +68,24 @@ Name: backup-test-vm.cloudlabdemo123.xyz
 Address: 20.235.202.166
 ```
 
----
+## Project Screenshots
 
-## 📸 Screenshots
+### DNS Records
 
----
+![DNS Records](images/DNS-records.png)
+
+### nslookup Result
+
+![nslookup Result](images/nslookup-result.png)
+
+### Self nslookup Test
+
+![Self nslookup](images/selfnslookup.png)
+
+### SSH Connectivity to VM
+
+![SSH Connectivity](images/ssh-connectivitytovm.png)
+
 
 ## 🎯 Learning Outcome
 
